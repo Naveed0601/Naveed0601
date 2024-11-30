@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **abdulnaveedmohammed81@gmail.com**
 
-- 📄 Know about my experiences [resume-me-naveed.tiiny.site](resume-me-naveed.tiiny.site)
+- 📄 Know about my experiences [Resume.pdf](https://github.com/user-attachments/files/17965215/Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
