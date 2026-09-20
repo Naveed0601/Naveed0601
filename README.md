@@ -5,7 +5,7 @@ Java Backend / Full Stack Developer
 </h3>
 
 <p align="center">
-  Building backend systems with Java & Spring Boot and full-stack applications with React.js and Node.js.
+Building backend systems with Java & Spring Boot and full-stack applications with React.js and Node.js.
 </p>
 
 ---
@@ -13,11 +13,11 @@ Java Backend / Full Stack Developer
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer with **1.8 years of professional experience**
-- 🔧 Currently focused on **Java, Spring Boot, Spring Security, REST APIs, and PostgreSQL**
-- 🚀 Experienced in building enterprise e-commerce applications using **React.js, Node.js, Express.js, and REST APIs**
-- 🔐 Interested in backend development, authentication, authorization, API design, and database-driven systems
-- 📊 Currently building **FinSight**, a personal finance and financial analytics platform
-- 🧠 Continuously improving my problem-solving and backend engineering skills through DSA and real-world projects
+- 🔧 Focused on **Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, and PostgreSQL**
+- 🚀 Professional experience building enterprise applications using **React.js, Node.js, Express.js, and REST APIs**
+- 🔐 Interested in backend engineering, authentication, authorization, API design, and database-driven applications
+- 📊 Building **FinSight – Personal Finance & Financial Analytics Platform**
+- 🧠 Continuously improving problem-solving and backend engineering skills through DSA and real-world projects
 
 ---
 
@@ -25,89 +25,135 @@ Java Backend / Full Stack Developer
 
 ### FinSight – Personal Finance & Financial Analytics Platform
 
-A backend-focused personal finance platform built with Java and Spring Boot for managing expenses, income, budgets, and financial analytics.
+A personal finance and financial analytics platform built with Java and Spring Boot for managing expenses, income, budgets, and financial insights.
 
-**Tech Stack:**
+### Tech Stack
 
-`Java 21` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `Hibernate` `PostgreSQL` `Flyway` `React.js`
+`Java 21` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA`
+`Hibernate` `PostgreSQL` `Flyway` `React.js`
 
-**Key areas:**
+### Key Areas
 
 - RESTful API development
 - JWT-based authentication and authorization
 - Role-Based Access Control (RBAC)
 - Expense and income management
-- Pagination, sorting, filtering
-- Dynamic JPA Specifications
-- Financial analytics and dashboard aggregation
+- Budget management
+- Pagination and sorting
+- Dynamic filtering using JPA Specifications
+- Financial dashboard and analytics
 - PostgreSQL database design
 - Flyway database migrations
-- DTO-based API architecture
-- Validation and exception handling
+- DTO-based architecture
+- Bean Validation
+- Exception handling
+- Transaction management
+- JPA/Hibernate entity relationships
 
 🔗 **Repository:**  
 https://github.com/Naveed0601/FinSight-Personal-Finance-Financial-Analytics-Platform
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Backend
+## 💻 Programming Languages
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+**Java | C++ | JavaScript | SQL**
+
+---
+
+## ⚙️ Backend Development
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="45" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
 </p>
 
-**Java | Spring Boot | Spring MVC | Spring Security | Spring Data JPA | Hibernate | Node.js | Express.js | REST APIs**
+**Spring Boot | Spring MVC | Spring Data JPA | Hibernate | JPA | Node.js | Express.js | REST APIs**
 
-### Security
+---
 
-**Spring Security | JWT Authentication | Role-Based Access Control | bcrypt**
+## 🔐 Security & Authentication
 
-### Databases
+**Spring Security | JWT | Role-Based Access Control (RBAC) | bcrypt**
+
+---
+
+## 🗄️ Databases
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="45" alt="MongoDB"/>
 </p>
 
 **PostgreSQL | MongoDB**
 
-### Frontend
+---
+
+## 🎨 Frontend Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="45" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
-**React.js | JavaScript | HTML5 | CSS3 | Tailwind CSS | Redux**
+**React.js | HTML5 | CSS3 | Tailwind CSS | Redux | JavaScript**
 
-### Tools
+---
 
-**Git | GitHub | Flyway | Postman | IntelliJ IDEA | VS Code**
+## 🗃️ Database & Persistence
+
+**Spring Data JPA | JPA | Hibernate | Flyway | PostgreSQL | MongoDB**
+
+---
+
+## 🔧 Tools & Development
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+**Git | GitHub | Postman | IntelliJ IDEA | VS Code**
+
+---
+
+## 📚 Currently Working With
+
+**Java | Spring Boot | Spring Security | JPA/Hibernate | PostgreSQL | React.js**
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/naveed06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
 
-  <a href="https://leetcode.com/u/naveed_6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/naveed06/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn" height="30" width="40"/>
+</a>
 
-  <a href="mailto:abdulnaveedmohammed81@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/gmail.svg" alt="Email" height="30" width="40"/>
-  </a>
+<a href="https://leetcode.com/u/naveed_6/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+alt="LeetCode" height="30" width="40"/>
+</a>
+
+<a href="mailto:abdulnaveedmohammed81@gmail.com">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/gmail.svg"
+alt="Email" height="30" width="40"/>
+</a>
+
 </p>
 
 ---
@@ -115,9 +161,11 @@ https://github.com/Naveed0601/FinSight-Personal-Finance-Financial-Analytics-Plat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveed0601&show_icons=true&hide_border=true" alt="Naveed's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naveed0601&show_icons=true&hide_border=true"
+  alt="Naveed's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveed0601&hide_border=true" alt="Naveed's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveed0601&hide_border=true"
+  alt="Naveed's GitHub Streak"/>
 </p>
